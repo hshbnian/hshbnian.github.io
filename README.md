@@ -1,4 +1,6 @@
-
+Zolan - Modern & Minimal Theme for Jekyll
+======
+Zolan is a minimal blog theme for Jekyll.
 
 * * *
 
@@ -17,6 +19,50 @@ Table of Contents
 
 * * *
 
+### Features
+
+* 100% responsive and clean theme
+
+* Optimized for mobile devices
+
+* Minimal design
+
+* Valid HTML5 code
+
+* Post sharing
+
+* Subscription form
+
+* Supports Disqus Comments
+
+* Instagram Feed
+
+* Ionicons Icons
+
+* Google Fonts
+
+
+* * *
+
+### Demo
+
+Check the theme in action [Demo](https://zolan-jekyll.netlify.app/)
+
+![Main page preview](https://github.com/artemsheludko/zolan/blob/master/images/zolan-main-page.png?raw=true)
+
+The post page would look like this:
+
+![Post page preview](https://github.com/artemsheludko/zolan/blob/master/images/zolan-post.png?raw=true)
+
+* * *
+
+### Deployment
+
+To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
+
+I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+
+* * *
 
 ### Posts
 
@@ -112,4 +158,13 @@ I have used the following scripts, fonts or other files as listed.
 *   [jQuery.com](https://jquery.com/)
 *   Preview Images form [unsplash.com](https://unsplash.com/), [pexels.com](https://www.pexels.com/)
 
+* * *
+### License
 
+Mit License
+
+* * *
+
+### Support
+<p>If you like the themes that I create you can become my sponsor on <a href="https://www.patreon.com/artemsheludko" target="_blank">Patreon</a>.
+<p align="center"><b>Thank you for your support ❤️</b></p>
